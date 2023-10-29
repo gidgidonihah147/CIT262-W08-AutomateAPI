@@ -1,0 +1,23 @@
+{
+  "name": "cit262-w08-automateapi",
+  "version": "1.0.0",
+  "description": "W08 API Test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gidgidonihah147/CIT262-W08-AutomateAPI.git"
+  },
+  "author": "Tristin Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gidgidonihah147/CIT262-W08-AutomateAPI/issues"
+  },
+  "homepage": "https://github.com/gidgidonihah147/CIT262-W08-AutomateAPI#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "node-fetch2": "^1.6.3"
+  }
+}
